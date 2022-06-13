@@ -1,0 +1,14 @@
+{
+  "name": "jest-demo",
+  "version": "1.0.0",
+  "description": "mencoba jest framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Echa Ardayanty",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
