@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1655102252833" clover="3.2.0">
+  <project timestamp="1655102252835" name="All files">
+    <metrics statements="11" coveredstatements="10" conditionals="8" coveredconditionals="8" methods="5" coveredmethods="4" elements="24" coveredelements="22" complexity="0" loc="11" ncloc="11" packages="1" files="1" classes="1"/>
+    <file name="calc.js" path="E:\NGATUR FOLDER\GABUNGAN\MBKM\Self Paced Learning\Nurul Cesar Ardayanti - Self Paced Learning, Unit Testing Javascript\UNIT-TESTING\CALCAPP\calc.js">
+      <metrics statements="11" coveredstatements="10" conditionals="8" coveredconditionals="8" methods="5" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="3" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
